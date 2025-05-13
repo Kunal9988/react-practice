@@ -1,0 +1,28 @@
+{
+  "name": "program",
+  "version": "1.0.0",
+  "description": "This is my react Code",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kunal9988/react-practice.git"
+  },
+  "keywords": [
+    "react",
+    "Kunal",
+    "Mirgal",
+    "LEO"
+  ],
+  "author": "Kunal Mirgal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kunal9988/react-practice/issues"
+  },
+  "homepage": "https://github.com/Kunal9988/react-practice#readme",
+  "devDependencies": {
+    "parcel": "^2.15.0"
+  }
+}
